@@ -1,5 +1,2 @@
 Cuaderno digital: https://github.com/lsalug00/cuaderno-Lidia-Saludes-Gonzalez.git
 ComprobadorDeMultiplos: https://github.com/alumnos-programacion-miguel-bayon/proyecto-fantastic-dragon-lsalug00
-Gestor de tareas: https://github.com/alumnos-programacion-miguel-bayon/proyecto-gestor-tareas-pendientes-lsalug00.git
-Subasta: https://github.com/alumnos-programacion-miguel-bayon/proyecto-auction-lsalug00.git
-MusicOrganizer: https://github.com/alumnos-programacion-miguel-bayon/proyecto-music-organizer-v5-lsalug00
